@@ -227,9 +227,6 @@ kernel/sound/soc/codecs/snd-soc-rl6231.ko
 kernel/sound/soc/codecs/snd-soc-rt5514.ko
 kernel/sound/soc/codecs/snd-soc-rt5514-qmi.ko
 kernel/sound/soc/codecs/snd-soc-rt5514-spi.ko
-kernel/sound/soc/codecs/snd-soc-wm-adsp.ko
-kernel/sound/soc/codecs/snd-soc-cs35l41.ko
-kernel/sound/soc/codecs/snd-soc-cs35l41-i2c.ko
 kernel/sound/soc/codecs/snd-soc-codec-misc.ko
 kernel/techpack/video/msm/msm-vidc.ko
 kernel/techpack/display/msm/msm_drm.ko
@@ -310,6 +307,7 @@ kernel/techpack/audio/asoc/codecs/bolero/va_macro_dlkm.ko
 kernel/techpack/audio/asoc/codecs/bolero/tx_macro_dlkm.ko
 kernel/techpack/audio/asoc/codecs/bolero/rx_macro_dlkm.ko
 kernel/techpack/audio/asoc/codecs/wsa883x/wsa883x_dlkm.ko
+kernel/techpack/audio/asoc/codecs/tas256x/tas256x_dlkm.ko
 kernel/techpack/audio/asoc/codecs/wcd_core_dlkm.ko
 kernel/techpack/audio/asoc/codecs/wcd9xxx_dlkm.ko
 kernel/techpack/audio/asoc/codecs/wsa881x_dlkm.ko
