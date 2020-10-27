@@ -56,6 +56,7 @@ kernel/drivers/soc/qcom/memshare/msm_memshare.ko
 kernel/drivers/soc/qcom/peripheral-loader.ko
 kernel/drivers/soc/qcom/qdsp6v2/cdsp-loader.ko
 kernel/drivers/soc/qcom/smcinvoke.ko
+kernel/drivers/soc/qcom/rq_stats.ko
 kernel/drivers/soc/qcom/subsystem_notif.ko
 kernel/drivers/soc/qcom/subsystem-restart.ko
 kernel/drivers/soc/qcom/ramdump.ko
@@ -138,6 +139,7 @@ kernel/drivers/usb/dwc3/dwc3-of-simple.ko
 kernel/drivers/usb/dwc3/dwc3-qcom.ko
 kernel/drivers/usb/dwc3/usb-dwc3-msm.ko
 kernel/drivers/usb/roles/roles.ko
+kernel/drivers/input/touchscreen/touch_offload.ko
 kernel/drivers/input/touchscreen/touchscreen_tbn.ko
 kernel/drivers/input/touchscreen/heatmap.ko
 kernel/drivers/input/misc/drv2624.ko
