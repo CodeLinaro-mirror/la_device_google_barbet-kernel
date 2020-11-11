@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6939039"
+    build_id: "6960842"
     target: "kernel_barbet_debug_api"
     source_file: "rpmh_master_stat.ko"
   }
   dest_file: "debug_api/rpmh_master_stat.ko"
-  version: "Linux version 4.19.110-g25601b7ea746-ab6939039 (android-build@abfarm656) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Oct 29 10:26:10 UTC 2020"
+  version: "Linux version 4.19.110-gc77c5204f493-ab6960842 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Nov 9 08:18:33 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
