@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7006534"
+    build_id: "7015627"
     target: "kernel_barbet_debug_memory"
     source_file: "wcd937x_slave_dlkm.ko"
   }
   dest_file: "debug_memory/wcd937x_slave_dlkm.ko"
-  version: "Linux version 4.19.110-g5dc73714be6d-ab7006534 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Nov 26 06:22:38 UTC 2020"
+  version: "Linux version 4.19.110-g78936709e54c-ab7015627 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Dec 4 08:16:02 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }

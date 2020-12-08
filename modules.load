@@ -1,3 +1,4 @@
+kernel/kernel/trace/msm_rtb.ko
 kernel/kernel/trace/msm_ipc_logging.ko
 kernel/kernel/kheaders.ko
 kernel/fs/incfs/incrementalfs.ko
