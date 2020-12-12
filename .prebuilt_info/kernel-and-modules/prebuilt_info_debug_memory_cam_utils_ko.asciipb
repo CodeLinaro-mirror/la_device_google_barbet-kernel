@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7015627"
+    build_id: "7026431"
     target: "kernel_barbet_debug_memory"
     source_file: "cam_utils.ko"
   }
   dest_file: "debug_memory/cam_utils.ko"
-  version: "Linux version 4.19.110-g78936709e54c-ab7015627 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Dec 4 08:16:02 UTC 2020"
+  version: "Linux version 4.19.110-gf1affa6172c7-ab7026431 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Dec 9 10:34:09 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
