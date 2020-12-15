@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7026431"
+    build_id: "7027721"
     target: "kernel_barbet_debug_memory"
     source_file: "touchscreen_tbn.ko"
   }
   dest_file: "debug_memory/touchscreen_tbn.ko"
-  version: "Linux version 4.19.110-gf1affa6172c7-ab7026431 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Dec 9 10:34:09 UTC 2020"
+  version: "Linux version 4.19.110-gf1af251d3ab1-ab7027721 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Dec 11 11:01:03 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
