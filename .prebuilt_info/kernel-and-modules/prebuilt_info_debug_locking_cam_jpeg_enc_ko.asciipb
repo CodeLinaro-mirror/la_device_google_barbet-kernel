@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7225281"
+    build_id: "7234912"
     target: "kernel_barbet_debug_locking"
     source_file: "cam_jpeg_enc.ko"
   }
   dest_file: "debug_locking/cam_jpeg_enc.ko"
-  version: "Linux version 4.19.160-g0b343a2ec84d-ab7225281 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Mar 19 04:04:14 UTC 2021"
+  version: "Linux version 4.19.160-g489b661eccab-ab7234912 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Mar 24 14:23:56 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
