@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7234889"
+    build_id: "7241380"
     target: "kernel_barbet_debug_memory"
     source_file: "qpnp_pdphy.ko"
   }
   dest_file: "debug_memory/qpnp_pdphy.ko"
-  version: "Linux version 4.19.160-g9b3f9c7a799b-ab7234889 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Mar 24 14:23:44 UTC 2021"
+  version: "Linux version 4.19.160-g9b3f9c7a799b-ab7241380 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Mar 24 14:23:44 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
