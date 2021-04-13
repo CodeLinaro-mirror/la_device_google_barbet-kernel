@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7250462"
+    build_id: "7261749"
     target: "kernel_barbet_debug_locking"
     source_file: "tas256x_dlkm.ko"
   }
   dest_file: "debug_locking/tas256x_dlkm.ko"
-  version: "Linux version 4.19.160-g7e5a0279c8e1-ab7250462 (build-user@build-host) (Android (7211189, based on r416183) clang version 12.0.4 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.4 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Mar 31 23:22:45 UTC 2021"
+  version: "Linux version 4.19.160-ge81d9fc10f71-ab7261749 (build-user@build-host) (Android (7211189, based on r416183) clang version 12.0.4 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.4 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Apr 6 08:52:56 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
