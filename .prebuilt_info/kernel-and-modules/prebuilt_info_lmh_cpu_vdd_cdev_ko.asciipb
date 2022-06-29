@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8272302"
+    build_id: "8460319"
     target: "kernel_barbet"
     source_file: "lmh_cpu_vdd_cdev.ko"
   }
   dest_file: "lmh_cpu_vdd_cdev.ko"
-  version: "Linux version 4.19.220-g0841e4c2ea1f-ab8272302 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Mar 8 02:35:20 UTC 2022"
+  version: "Linux version 4.19.224-gd45a12e83647-ab8460319 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri Apr 15 06:00:38 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/barbet-kernel"
 }
